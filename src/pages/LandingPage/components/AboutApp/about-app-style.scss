@@ -1,0 +1,32 @@
+.about-app{
+    margin: 100px 0;
+    width: 80%;
+    text-align: center;
+    .about-app-text{
+        padding: 100px 0;
+        .title{
+        font-family: 'Playfair Display', serif;
+        font-size: 32px;
+        padding-bottom: 20px;
+        font-weight: 500;
+        }
+        .strong{
+            font-size: 24px;
+        }
+        .idea, .strong{
+            padding: 10px;
+            font-family: 'Playfair Display', serif;
+        }
+    }
+    
+    .arrow-down {
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        display: inline-block;
+        padding: 10px;
+        transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        margin: 20px;
+      }
+
+}

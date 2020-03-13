@@ -1,0 +1,44 @@
+.navigation{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .hide{
+        display: none;
+    }
+    .categories-menu, .filters-menu{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 0;
+        .categories-title, .filters-title{
+        font-family: 'Playfair Display', serif;
+        color: #000000;
+        font-size: 24px;
+        font-weight: 700;
+        text-decoration: none;
+        text-align: center;
+        }
+        .categories, .filters{
+            width: 100%;
+            list-style: none;
+            text-align: center;
+            .category, .filter{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+                height: 50px;
+                font-family: 'Raleway', sans-serif;
+                font-size: 18px;
+                font-weight: 400;
+                cursor: pointer;
+                margin-top: 10px;
+            } 
+        }
+
+    }
+    
+}

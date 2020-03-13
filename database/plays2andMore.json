@@ -1,0 +1,189 @@
+{
+  "Activities": [
+    {
+      "id": 1,
+      "category": "art",
+      "name": "Wełniane zwierze",
+      "needed": ["kolorowa włóczka", "tektura lub karton", "klej", "zdjęcie zwierzęcia", "kolorowe flamastry" ],
+      "description": "Na kartonie narysuj kontur zwierzęcia biorąc za wzór wcześniej przygotowane zdjęcie lub obrazek. Im większe zwierze narysujesz tym lepiej. Włóczkę potnijcie na małe kawałaki (od 5 do 10 cm). Potem niech dziecko przykleja wycinki włóczki na rysunku zwierzęcia. Na koniec narysujcie mu oczy, nos, uszy. Nie zapomnijcie dać mu imię!"
+    },
+    {
+      "id": 2,
+      "category": "art",
+      "name": "Domowa plastelina",
+      "needed": ["1 szklanka soli", "1 szklanka mąki", "1 szklanka wody"],
+      "needed-optional": ["foremki do ciasta", "wałek", "barwniki spożywcze"],
+      "description": "Ubierzcie się tak, aby nie było żalu, gdy się pobrudzicie. Wsyp mąkę i sól do wysokiej miski. Pozwól, by dziecko wymieszało skłądniki rękami lub łyżką. Powoli dolewaj wodę. Mieszajcie ciasto tak długo, aż stanie się gładkie i nie będzie się kleiło do rąk. Jesli chcecie kolorową plastelinę, podziel ciasto na tyle częsci, ile chcecie kolorów. Dodaj trochę barwnika i ponownie wymieszaj. Z tak przygotowanej plasteliny możecie ulepić wszystko, co tylko przyjdzie Wam do głowy.",
+      "remember": "Po skończonej zabawie włóż plastelinę do szczelnego pojemnika. Mozesz ją przechowywać do 3 dni."
+    },
+    {
+      "id": 3,
+      "category": "art",
+      "name": "Skarbonka",
+      "needed": ["plastikowy lub metalowy pojemnik z pokrywką, np. puszka po orzeszkach", "kolorowe papiery, naklejki, tasiemki", "taśma i klej", "kolorowe flamastry"],
+      "description": "Niech dziecko zacznie ozdabiać pojemnik przygotowanymi papierami, naklejkami lub tasiemkami. Ty w tym czasie, w plastikowej przykrywce zrób dziurkę(nożem lub nożyczkami), przez którą będą wrzucane monety. Nałóżcie pokrywkę na pojemnik i przyklejcie ją taśmą. Skończcie ozdabiać skarbonkę razem.",
+      "remember": "Dziurkę zrób tak, aby nie było wystających i ostrych elementów, którymi mogłoby skaleczyć się dziecko."
+    },
+    {
+      "id": 4,
+      "category": "art",
+      "name": "Dziurawy obraz",
+      "needed": ["2 arkusze papieru w różnych kolorach", "dziurkacz", "klej"],
+      "needed-optional": ["flamastry lub kredki"],
+      "description": "Daj dziecku jeden akursz papieru, niech potnie go dziurkaczem - może to być kompletna abstrakcja lub wcześniej przygotowany wzór. Drugą kartkę posmarujcie klejem i przyklejcie podziurkowane dzieło do niej. Na koniec możecie jeszcze ozdobić dzieło kretkami lub flamastrami"
+    },
+    {
+      "id": 5,
+      "category": "art",
+      "name": "Zielnik",
+      "needed": ["świeże kwiaty", "gruba książka", "tektura lub karton", "klej", "gazety"],
+      "description": "Pomiędzy kolejne kartki książki włóżcie złożone kawałki gazet z kwiatami w środku. Gdy wszystkie rośliny będą już w środku, zamknijcie książkę i odłóżcie na kilka dni. Potem delikatnie wyjmijcie zasuszone kwiaty. Ułóżcie z nich kolorową kompozycję na przygotowanej tekturze i przyklejcie ją.",
+      "tip": "Takie roślinne kompozycje możecie storzyć nie tylko wiosną. W czasie jesieni, kwiaty można zamienić na kolorowe liście, które już spadły z drzew."
+    },
+    {
+      "id": 6,
+      "category": "art",
+      "name": "Pyszne obrazki",
+      "needed": ["budyń waniliowy lub śmietankowy", "papier do pieczenia lub śniadaniowy", "barwniki", "miseczki", "łyżeczki"],
+      "description": "Przyrządźcie budyń wg przepisu na opakowaniu. Podzielcie masę na tyle porcji, ile chcecie zrobić kolorów. Do każdej porcji dodajcie barwnik i dokładnie wymieszjacie. Rozłóż papier i pozwól dziecku malować paluszkami umoczonymi w budyniu. Cieszcie się zabawą, oblizując paluce przy każdej zmianie koloru.",
+      "tip": "Zamiast budyniu możesz użyć jogurtu naturalnego."
+    },
+    {
+      "id": 7,
+      "category": "gardening",
+      "name": "Kiełki",
+      "needed": ["nasiona rzeżuchy", "talerze", "papierowy ręcznik"],
+      "description": "Na talerzu z wodą połóż ręcznik papierowy i rozsypcie pojedynczo nasiona. Przykryjcie drugim talerzem, aby nie dochodziło światło. Zostawcie na około 3 dni pod przykrycie, nie zapominając o nawilżaniu nasion. Gdy pędę będą miały już około 2 cm, zdjemijcie pokrywkę i połóżcie talerz z kiełkami na słonecznym parapecie. Pamiętajcie o podlewaniu roślin. Gdy się zazielenią ścinajcie nożyczkami, możecie położyć je na kanapki lub dodać do sałatki.",
+      "remember": "Jest wiele odmian nasion na kiełki. Postępowanie przy hodowli może się trochę różnieć w zależności od rodzaju rośliny. Postępuj zawsze zgodnie z instrukcjami na opakowaniu kupionych nasion."
+    },
+    {
+      "id": 8,
+      "category": "gardening",
+      "name": "Awokado",
+      "needed": ["pestka awokado", "ostry gwóźdź", "trzy wykałaczki", "szklanka"],
+      "description": "Ostrym gwoździem wywierć w pestce trzy dziurki. Do każdej wsuń wykałaczkę tak, aby nie wypadła. Nalejcie wody do szklanki, oprzyjcie wykałaczki na krawędzi naczynia, tak aby dół pestki był zanurzony w wodzie. Wrótce rozwiną się korzonki i pęd. Kiedy rozwiną się liście, odetnijcie wierzchołek pędu, dzięki temu drzewko będzie miało więcej gałęzi. Gdy korzenie zgrubieją, przeszdźcie roślinę do doniczki i nadal obcinajcie wierzchołek."
+    },
+    {
+      "id": 9,
+      "category": "gardening",
+      "name": "Pomarańcze",
+      "needed": ["pestki pomarańczy, grejfruta lub cytryny", "doniczka", "ziemia"],
+      "description": "Nasypcie ziemi do doniczki i ją podlejcie. W wilgotny grunt wciśnijscie trzy, cztery pestki. Potem przenieście doniczkę w ciepłe i ciemne miejsce. Kiedy pestki zakiełkują, przestawcie roślinę w słoneczny punkt. Pamiętajcie o regularnym podlewaniu cytrusów i obracaniu doniczki, aby roślina z każdej strony miała dużo słońca."
+    },
+    {
+      "id": 10,
+      "category": "gardening",
+      "name": "Szczypiorek",
+      "needed": ["kilka główke cebuli dymki", "doniczka", "ziemia"],
+      "description": "Wsypcie ziemię do doniczki i ją podlejcie. Wciśnijscie pięć do dziesięciu cebulek i przykryjcie warstwą ziemi. Postaw doniczkę na parapacie i czekajcie na plony!"
+    },
+    {
+      "id": 11,
+      "category": "funinthekitchen",
+      "name": "Statki",
+      "needed": ["kilka jajek ugotowanych na twardo", "majonez", "sól i pieprz", "wykałaczki", "papier", "nożyczki i/lub taśma"],
+      "description": "Obierzcie jajka, przekrójcie każde na pół. Wyciągnijscie żółtka, rozetrzyjcie je na masę z majonezem, solą i pieprzem. Z papieru wytnijcie żagle(tyle ile jest połówek jajek). Możecie je nawlec na wykałaczki lub po prostu przykleić do nich taśmą. Rozłóżcie masę jajeczną do białkowych łódek i w środek każdej połówki wetknijcie wykałaczkowy maszt. Statki są już gotowe do rejsu, smacznego!"
+    },
+    {
+      "id": 12,
+      "category": "funinthekitchen",
+      "name": "Smaczna biżuteria",
+      "needed": ["miękkie cukierki", "dropsy z dziurką", "popkorn", "żelki", "suszone owoce", "igła i nić"],
+      "description": "Nawlecz igłę i pozwól dziecku stworzyć własną biżuterię. Gdy skończy, pomóż mu ją założyć na siebie i życz smacznego!"
+    },
+    {
+      "id": 13,
+      "category": "theater",
+      "name": "Strojenie min",
+      "description": "Usiądź twarzą do dziecka. Spróbujcie poprzewracać oczami, mrugajcie powiekami, ruszajcie nosem, uszami, językiem, marszczcie czoło, wyginajcie karkiem. Zadaniem może być rozmieszanie siebie nawzajem albo powtarzenie po sobie min."
+    },
+    {
+      "id": 14,
+      "category": "games",
+      "name": "Dzień i noc",
+      "description": "Dziecko biega sobie swobodnie. Kiedy powiesz 'Noc', dziecko musi się zatrzymać i się nie ruszać. Gdy zawołasz 'Dzień', dziecko może znów zacząć biegać.",
+      "tip": "Zamiast mówić 'Dzień/Noc' możesz klaskać lub wybrać słowa wygodne dla Ciebie i Twojego dziecka."
+    },
+    {
+      "id": 15,
+      "category": "games",
+      "name": "Ojciec Wirgiliusz",
+      "description": "'Ojciec Wirgiliusz uczył dzieci swoje, a miał ich wszystkich sto dwadzieścia troje. Hejże dzieci, hejże, ha! Róbcie wszystko to, co ja!'. Najpierw zaśpiewaj dzieciom piosenkę, a potem powiedz: 'Ojciec Wirgiliusz robi...(np. dotyka nosa, stoi na jednej nodze, trzyma się za biodra i obraca się w kółko)' i zrób to. Niech dzieci Cię naśladują. Po kilku takich poleceniach, możesz się zamienić z dzieckiem, niech teraz ono będzie ojcem Wirgiliuszem."
+    },
+    {
+      "id": 16,
+      "category": "theater",
+      "name": "Jak chodzi kaczka?",
+      "description": "W tej zabawie chodzi o naśladowanie sposobu poruszania się zwierząt. Na zmianę zadawajcie sobie pytanie 'Jak porusza się ...(np. kaczka, pies, kot, słoń) ?' i pokazujcie jak się porusza.",
+      "tip": "Do zabawy możecie dodać również naśladowanie odgłosów zwierząt."
+    },
+    {
+      "id": 17,
+      "category": "games",
+      "name": "Znikające przedmioty",
+      "needed": ["kilka różnych przedmiotów, np. samochodzik, książka, widelec, but, moneta, itp."],
+      "description": "Połóż na stole lub podłodze zgromadzone przedmioty. Poproś dziecko, aby zasłoniło oczy lub się obróciło, i schowaj jeden z przedmiotów. Potem spytaj dziecko, której rzeczy brakuje. Potem schowaj kolejny przedmiot, gdy dziecko ma zasłonięte oczy, i znów zapytaj czego brakuje. Kontynuuj zabawę aż znikną wszystkie przedmioty.",
+      "tip": "Dla starszych dzieci możesz zgromadzić przedmioty, które są podobne do siebie. np. sztućce, flamastry i kredki, maskotki."
+    },
+    {
+      "id": 18,
+      "category": "music",
+      "name": "Grzechotki",
+      "needed": ["małe plastikowe butelki, np. po napojach", "ryż i/lub fasola"],
+      "description": "Do umytych i wysuszonych butelek wsypcie trochę ryżu i/lub fasoli, następnie zakręćcie nakrętki i gotowe! Teraz możecie grać w rytm muzyki lub tworzyć swoje własne kompozycje.",
+      "tip": "Zróbcie więcej instrumentów, wtedy będziecie mogli założyć zespół i dawać koncerty dla rodziny."
+    },
+    {
+      "id": 19,
+      "category": "music",
+      "name": "Dzwoneczki",
+      "needed": ["dwie wstążki (około 20cm długie)", "dzwoneczki"],
+      "description": "Na każdą wstążkę nawlecz dzwoneczki, zrób supełki między nimi. Zawiąż gotowe bransoletki na nadgarstkach lub kostkach dziecka tak, żeby się nie zsunęły, ale żeby miały swobodę ruchu. Pozwól dziecku pobiegać, potańczyć w rytm muzyki. Możeciu sprawdzić czy dziecku uda się poruszać tak, żeby nie było słychać dzwoneczków.",
+      "tip": "Wszystkie własnoręcznie zrobione instrumenty zachowajcie na późniejsze zabawy. Może zróbcie specjalną skrzynię tylko na instrumenty?"
+    },
+    {
+      "id": 20,
+      "category": "outdoorfun",
+      "name": "Mapa skarbów",
+      "needed": ["karton lub tektura", "klej"],
+      "description": "Pójdźcie na spacer lub wyjdźcie na ogródek. Zabierzcie ze sobą karton i klej. Kiedy dziecko znajdzie jakiś interesujący przedmiot, przyklejcie go na karton. Powstałą w ten sposób mapę możecie w domu pokolorować kredkami lub mazakami. Spróbujcie zrobić mapy z różnych miejsc, np. park, plaża, łąka."
+    },
+    {
+      "id": 21,
+      "category": "outdoorfun",
+      "name": "Znikające obrazki",
+      "needed": ["wiaderko z wodą", "pędzle"],
+      "description": "Znajdź bezpieczne miejsce na podwóku lub chodniku. Zabierzcie ze sobą wiaderko (lub inny pojemnik) z wodą oraz pędzle. Niech dziecko maluje tam obrazki pędzlem zanurzonym w wodzie. Kiedy woda zacznie parować, obrazki będą znikać, robiąc miejsce na nowe arcydzieła."
+    },
+    {
+      "id": 22,
+      "category": "outdoorfun",
+      "name": "Kwiatowe obrazki",
+      "needed": ["piasek lub ziemia", "stare podstawki lub talerzyki jednorazowe", "kwiaty, liście, gałązki, itp."],
+      "description": "Nasypcie trochę mokrego piasku lub ziemi na talerzyk. Uformujcie z tego wzgórze. Teraz niech dziecko poszuka kwiatów, liści, piórek i innych tego typu drobiazków. Powciskajcie znaleziska w piasek tworząc kolorowe i oryginalne kompozycje. Jeśli będziecie pamiętać o nawilżaniu piasku, takie dzieło może ozdabiać balkon lub taras nawet przez kilka dni."
+    },
+    {
+      "id": 23,
+      "category": "outdoorfun",
+      "name": "Błotna zabawa",
+      "needed": ["mały basen lub plastikowa płachta"],
+      "description": "Wyjdźcie na dwór, rozłóż basen. Wsyp do niego ziemię i dolej wody. Pozwól dziecku taplać się w błocie i ciesz się jego radością! Po skończonej zabawie, umyj basen i dziecko wodą z węża ogrodowego. Będzie jeszcze więcej radości!"
+    },
+    {
+      "id": 24,
+      "category": "outdoorfun",
+      "name": "Ślizgawka",
+      "needed": ["duża plastikowa płachta, np. folia malarska", "kilka kamieni", "wąż ogrodowy"],
+      "needed-optional": ["urządzenie do traszania trawy"],
+      "description": "Rozłóż folię na trawniku, brzegi przyciśnij kamieniami. Skieruj wodę z węża płachtę. Gdy będzie już dostatecznie mokra, można zacząć się ślizgać!",
+      "remember": "Pilnuj, żeby folia była zawsze mokra. Staraj się również zmieniać miejsce zabawy, aby za bardzo nie zgnieść trawy w jednym miejscu."
+    },
+    {
+      "id": 25,
+      "category": "outdoorfun",
+      "name": "Poszukiwacz kamieni",
+      "description": "Podczas spaceru, zaproponuj zabawę w poszukiwaczy skarbów, np. specjalnych kamieni. Możesz poprosić dziecko o przyniesienie najmnijeszego kamienia, jaki znajdzie, potem o kamień, który jest bardzo szorstki lub gładki, biały lub czarny. Najciekawsze łupy możecie zabrać ze sobą do domu.",
+      "tip": "To nie muszą byc kamienie. To może być wszystko, co w danej sytuacji dziecko będzie mogło z łatwością znaleźć."
+    }
+  ]
+}

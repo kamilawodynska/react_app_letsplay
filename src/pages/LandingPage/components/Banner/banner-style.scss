@@ -1,0 +1,45 @@
+.banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    width: 100%;
+    .banner-text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width:80%;
+        padding: 100px;
+        font-family: 'Playfair Display', serif;
+        h1{
+            font-size: 48px;
+        }
+        h2{
+            padding-top: 20px;
+            font-size: 36px;
+        }
+        h1, h2{
+            text-align: center;
+        }
+        a{
+            padding: 20px 30px;
+            text-decoration: none;
+            font-family: 'Raleway', sans-serif;
+            font-size: 24px;
+            color: #ffffff;
+            background-color: red;
+            margin-top: 20px;
+        }
+    }
+    .arrow-down {
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        display: inline-block;
+        padding: 10px;
+        transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        margin: 20px;
+      }
+}
