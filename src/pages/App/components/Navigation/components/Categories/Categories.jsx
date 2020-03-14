@@ -10,6 +10,7 @@ class Categories extends Component{
             isOpen: !this.state.isOpen
         });
     };
+    
     render(){
         return (
             <section className="categories-menu">
@@ -18,8 +19,9 @@ class Categories extends Component{
                 <ul className="categories">
                     <li className="category">Art</li>
                     <li className="category">Gardening</li>
-                    <li className="category">Fun in the kitchen</li>
-                    <li className="category">Games, theater, music</li>
+                    <li className="category">In the kitchen</li>
+                    <li className="category">Games</li>
+                    <li className="category">Music</li>
                     <li className="category">Outdoor fun</li>
                 </ul>
             </nav>

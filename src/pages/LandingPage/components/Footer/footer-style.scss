@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 80%;
+    height: 150px;
+    font-family: 'Playfair Display', serif;
+    .copyrights{
+        padding-bottom: 25px;
+    }
+}

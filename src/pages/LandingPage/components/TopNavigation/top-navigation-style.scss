@@ -29,3 +29,22 @@
         }
     }
 }
+@media screen and (max-width: 768px) {
+    .top-navigation-page{
+        width: 100%;
+        flex-direction: column;
+        .logo-img{
+            height: 100px;
+        }
+        .menu {
+            font-size: 16px;
+            li{
+                padding: 10px;
+                a{
+                    font-size: 16px;
+                } 
+            }  
+        }
+        
+    }
+}

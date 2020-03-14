@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
+import { BrowserRouter, Route, Switch} from 'react-router-dom';
 import './container.scss';
 
-import ActivityMax from './Activity-max/Activity-max'
 import InitialActivitiesList from './InitialActivitiesList/InitialActivitiesList';
-// import ArtActivitiesList from './ArtActivitiesList/ArtActivitiesList';
+import ArtActivitiesList from './ActivitiesLists/ArtActivitiesList/ArtActivitiesList';
+
+import ActivityMax from './Activity-max/Activity-max'
+
 
 
 class Container extends Component{
@@ -12,10 +15,10 @@ class Container extends Component{
     };
 
     selectActivity = (activity) => {
-        // console.log(this.props.activities);
-        // this.setState({
-        //     selectedActivity: activity,
-        // });
+        console.log(this.props.activities);
+        this.setState({
+            selectedActivity: activity,
+        });
     };
     clearSelectedActivity = () => {
         this.setState({
@@ -28,7 +31,7 @@ class Container extends Component{
         if(this.state.selectedActivity){
             return <ActivityMax                 
             activity={this.state.selectedActivity}
-            backToList={this.clearSelectedCar} />
+            backToList={this.clearSelectedActivity} />
         }
         return(
             <section className="container">

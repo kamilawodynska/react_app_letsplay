@@ -7,7 +7,8 @@ import Container from '../Container/container';
 
 class Main extends Component {
     state = {
-        activities: []
+        activities: [],
+        category: null
     };
 
     componentDidMount() {
@@ -26,8 +27,8 @@ class Main extends Component {
     render(){
         return(
             <section className="main">
-                <Nav/>
-                <Container activities={this.state.activities}/>
+                <Nav category={this.state.category}/>
+                <Container activities={this.state.activities} category={this.state.category}/>
             </section>
         )
     }

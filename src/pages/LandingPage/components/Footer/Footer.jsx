@@ -4,6 +4,9 @@ import './footer-style.scss';
 const Footer = () => {
     return (
         <section className="footer">
+            <div className="copyrights">
+                Designed by Kamila Wodyńska
+            </div>
 
         </section>
     )

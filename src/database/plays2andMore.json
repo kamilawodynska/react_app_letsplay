@@ -177,6 +177,13 @@
       "needed-optional": ["urządzenie do traszania trawy"],
       "description": "Rozłóż folię na trawniku, brzegi przyciśnij kamieniami. Skieruj wodę z węża płachtę. Gdy będzie już dostatecznie mokra, można zacząć się ślizgać!",
       "remember": "Pilnuj, żeby folia była zawsze mokra. Staraj się również zmieniać miejsce zabawy, aby za bardzo nie zgnieść trawy w jednym miejscu."
+    },
+    {
+      "id": 25,
+      "category": "outdoorfun",
+      "name": "Poszukiwacz kamieni",
+      "description": "Podczas spaceru, zaproponuj zabawę w poszukiwaczy skarbów, np. specjalnych kamieni. Możesz poprosić dziecko o przyniesienie najmnijeszego kamienia, jaki znajdzie, potem o kamień, który jest bardzo szorstki lub gładki, biały lub czarny. Najciekawsze łupy możecie zabrać ze sobą do domu.",
+      "tip": "To nie muszą byc kamienie. To może być wszystko, co w danej sytuacji dziecko będzie mogło z łatwością znaleźć."
     }
   ]
 }

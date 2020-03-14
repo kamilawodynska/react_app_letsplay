@@ -5,3 +5,11 @@
     margin-top: 20px;
     padding-right: 40px;
 }
+@media screen and (max-width: 768px) {
+    .main{
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        margin: 0
+    }
+   }

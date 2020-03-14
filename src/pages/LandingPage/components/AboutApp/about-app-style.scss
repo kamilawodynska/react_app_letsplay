@@ -1,5 +1,5 @@
 .about-app{
-    margin: 100px 0;
+    margin: 50px 0;
     width: 80%;
     text-align: center;
     .about-app-text{
@@ -29,4 +29,12 @@
         margin: 20px;
       }
 
+}
+@media screen and (max-width: 768px){
+    .about-app{
+        margin: 20px 0;
+        .about-app-text{
+            padding: 80px 0 50px 0;
+        }
+    }
 }

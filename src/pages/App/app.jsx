@@ -6,10 +6,11 @@ import Main from './components/Main/main';
 
 const Appi = () => {
     return (
-        <div className="appi">
-            <TopBar/>
-            <Main/>
-        </div>
+            <div className="appi">
+                <TopBar/>
+                <Main/>
+            </div>
+        
     )
 }
 

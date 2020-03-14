@@ -23,20 +23,21 @@ class Filters extends Component{
                     <div className="filters">
                         <p>What have at home?</p>
                         <p className="filter">
-                            <input type="checkbox" onChange={this.markHave}/> {' '}
-                            Paint
+                            <input type="checkbox" id="paint" name="paint" onChange={this.markHave}/>
+                            <label for="paint">Paint</label>
+                            
                         </p>
                         <p className="filter">
-                            <input type="checkbox" onChange={this.markHave}/> {' '}
-                            Strings, yarn
+                            <input type="checkbox" id="strings-yarn" name="strings-yarn" onChange={this.markHave}/>
+                            <label for="strings-yarn">Strings, yarn</label>
                         </p>
                         <p className="filter">
-                            <input type="checkbox" onChange={this.markHave}/> {' '}
-                            Colored papers
+                            <input type="checkbox" id="colored-paper" name="colored-paper" onChange={this.markHave}/>
+                            <label for="colored-paper">Colored papers</label>
                         </p>
                         <p className="filter">
-                            <input type="checkbox" onChange={this.markHave}/> {' '}
-                            Food dyes
+                            <input type="checkbox" id="food-dyes" name="food-dyes" onChange={this.markHave}/>
+                            <label for="food-dyes">Food dyes</label>
                         </p>
                     </div>
                 </nav>
