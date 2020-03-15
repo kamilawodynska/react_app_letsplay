@@ -5,7 +5,10 @@ class ActivityMin extends Component{
     render(){
         return(
             <>
-            <li className="activity-min" onClick={this.props.selectActivity}>
+            <li
+                className="activity-min"
+                onClick={() => this.props.selectActivity(this.props.activity.id)}
+            >
                 <h2>{this.props.activity.name}</h2>
                 <h3>{this.props.activity.category}</h3>
             </li>
