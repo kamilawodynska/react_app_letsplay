@@ -8,8 +8,11 @@ class Nav extends Component{
     render(){
         return (
             <nav className="navigation">
-                <Categories category={this.props.category}/>
-                <Filters/>
+                <Categories
+                    onClickCategory={this.props.onClickCategory}
+                    selectedCategories={this.props.selectedCategories}
+                />
+                <Filters />
             </nav>
 
         )
