@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ActivityMin from '../Activity-min/Activity-min';
+import ActivityMin from '../Activity-min/ActivityMin';
 
 
 class InitialActivitiesList extends Component{

@@ -8,7 +8,7 @@ import Container from '../Container/container';
 class Main extends Component {
     state = {
         activities: [],
-        category: null
+        selectedCategories: [],
     };
 
     componentDidMount() {
@@ -24,11 +24,36 @@ class Main extends Component {
                 })
         }).catch(err => console.error(err))
     };
+
+    onClickCategory = (category) => {
+        // console.log({ category})
+        if (this.state.selectedCategories.includes(category)) {
+            this.setState({
+                selectedCategories: this.state.selectedCategories.filter((c) => c !== category),
+            });
+            return;
+        }
+
+        this.setState({
+            selectedCategories: [
+                ...this.state.selectedCategories,
+                category,
+            ],
+        });
+    }
     render(){
+        const filteredActivities = this.state.selectedCategories.length
+        ? this.state.activities.filter(
+            ({ category }) => this.state.selectedCategories.includes(category),
+        )
+        : this.state.activities;
         return(
             <section className="main">
-                <Nav category={this.state.category}/>
-                <Container activities={this.state.activities} category={this.state.category}/>
+                <Nav
+                	onClickCategory={this.onClickCategory}
+                    selectedCategories={this.state.selectedCategories}
+                />
+                <Container activities={filteredActivities} />
             </section>
         )
     }

@@ -95,12 +95,14 @@
       "id": 13,
       "category": "theater",
       "name": "Strojenie min",
+      "needed": [],
       "description": "Usiądź twarzą do dziecka. Spróbujcie poprzewracać oczami, mrugajcie powiekami, ruszajcie nosem, uszami, językiem, marszczcie czoło, wyginajcie karkiem. Zadaniem może być rozmieszanie siebie nawzajem albo powtarzenie po sobie min."
     },
     {
       "id": 14,
       "category": "games",
       "name": "Dzień i noc",
+      "needed": [],
       "description": "Dziecko biega sobie swobodnie. Kiedy powiesz 'Noc', dziecko musi się zatrzymać i się nie ruszać. Gdy zawołasz 'Dzień', dziecko może znów zacząć biegać.",
       "tip": "Zamiast mówić 'Dzień/Noc' możesz klaskać lub wybrać słowa wygodne dla Ciebie i Twojego dziecka."
     },
@@ -108,12 +110,14 @@
       "id": 15,
       "category": "games",
       "name": "Ojciec Wirgiliusz",
+      "needed": [],
       "description": "'Ojciec Wirgiliusz uczył dzieci swoje, a miał ich wszystkich sto dwadzieścia troje. Hejże dzieci, hejże, ha! Róbcie wszystko to, co ja!'. Najpierw zaśpiewaj dzieciom piosenkę, a potem powiedz: 'Ojciec Wirgiliusz robi...(np. dotyka nosa, stoi na jednej nodze, trzyma się za biodra i obraca się w kółko)' i zrób to. Niech dzieci Cię naśladują. Po kilku takich poleceniach, możesz się zamienić z dzieckiem, niech teraz ono będzie ojcem Wirgiliuszem."
     },
     {
       "id": 16,
       "category": "theater",
       "name": "Jak chodzi kaczka?",
+      "needed": [],
       "description": "W tej zabawie chodzi o naśladowanie sposobu poruszania się zwierząt. Na zmianę zadawajcie sobie pytanie 'Jak porusza się ...(np. kaczka, pies, kot, słoń) ?' i pokazujcie jak się porusza.",
       "tip": "Do zabawy możecie dodać również naśladowanie odgłosów zwierząt."
     },

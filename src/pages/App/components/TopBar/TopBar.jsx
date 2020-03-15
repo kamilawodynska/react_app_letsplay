@@ -6,13 +6,8 @@ const TopBar = () => {
         return(
             <header className="top-navigation">
                 <div className="logo">
-                    <a href="/"><img src={logo} alt="logo-lets-play" className="logo-img"></img></a>
+                    <a href="/app"><img src={logo} alt="logo-lets-play" className="logo-img"></img></a>
                 </div>
-                {/* <ul className="nav">
-                    <li>Start</li>
-                    <li>My account</li>
-                    <li>Log in/ Log out</li>
-                </ul> */}
             </header>
         )
 }
