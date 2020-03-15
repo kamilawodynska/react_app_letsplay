@@ -7,21 +7,25 @@ class ActivityMax extends Component{
         return(
             <>
             <li className="activity-max">
-                <div className="left">
-                    <h1 className="title">{activity.name}</h1>
-                    <div className="ingredients">
-                        <ul className="list">Potrzebne
-                            {activity.needed.map((need) => {
-                                return <li key={need.id}>{need}</li>
-                            })}
-                        </ul>
+                <h1 className="title">{activity.name}</h1>
+                <div className="activity">
+                    <div className="left">
+                        <div className="ingredients">
+                            <ul className="list">
+                                <h3>Needed:</h3>
+                                {activity.needed.map((need) => {
+                                    return <li key={need.id}>{need}</li>
+                                })}
+                            </ul>
+                        </div>
+                    </div>
+                    <div className="right">
+                        <h2>Let's start!</h2>
+                        <div className="description">{activity.description}</div>
+                        <button className="backToList-btn" onClick={this.props.backToList}>Back to list</button>
                     </div>
                 </div>
-                <div className="right">
-                    <h2>Do dzieła!</h2>
-                    <div className="description">{activity.description}</div>
-                    <button className="backToList-btn" onClick={this.props.backToList}>Back to list</button>
-                </div>
+                
                 
                 
             </li>

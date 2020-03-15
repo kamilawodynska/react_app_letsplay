@@ -3,7 +3,7 @@
     flex-direction: column;
     position: fixed;
     top: 70px;
-    right: 20px;
+    right: 40px;
     background-color: rgba($color: #ffff, $alpha: 0.8);
     text-align: right;
     .hide{
@@ -44,7 +44,7 @@
     .navigation{
         display: flex;
         top: 20px;
-        right: 20px;
+        right: 40px;
         .categories-menu{
             .categories-title{
                 font-size: 16px;

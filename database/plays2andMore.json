@@ -3,184 +3,184 @@
     {
       "id": 1,
       "category": "art",
-      "name": "Wełniane zwierze",
-      "needed": ["kolorowa włóczka", "tektura lub karton", "klej", "zdjęcie zwierzęcia", "kolorowe flamastry" ],
-      "description": "Na kartonie narysuj kontur zwierzęcia biorąc za wzór wcześniej przygotowane zdjęcie lub obrazek. Im większe zwierze narysujesz tym lepiej. Włóczkę potnijcie na małe kawałaki (od 5 do 10 cm). Potem niech dziecko przykleja wycinki włóczki na rysunku zwierzęcia. Na koniec narysujcie mu oczy, nos, uszy. Nie zapomnijcie dać mu imię!"
+      "name": "Woolen animal",
+      "needed": ["colorful yarn", "cardboard or cardboard", "glue", "animal's photo", "colorful markers"],
+      "description": "Draw the animal's outline on the carton, taking a previously prepared photo or picture as a pattern. The larger the animal you draw the better. Cut the yarn into small pieces (from 5 to 10 cm). Then let the child stick the yarn clippings in the animal's drawing. Finally, draw his eyes , nose, ears. Don't forget to give him a name! "
     },
     {
       "id": 2,
       "category": "art",
-      "name": "Domowa plastelina",
-      "needed": ["1 szklanka soli", "1 szklanka mąki", "1 szklanka wody"],
-      "needed-optional": ["foremki do ciasta", "wałek", "barwniki spożywcze"],
-      "description": "Ubierzcie się tak, aby nie było żalu, gdy się pobrudzicie. Wsyp mąkę i sól do wysokiej miski. Pozwól, by dziecko wymieszało skłądniki rękami lub łyżką. Powoli dolewaj wodę. Mieszajcie ciasto tak długo, aż stanie się gładkie i nie będzie się kleiło do rąk. Jesli chcecie kolorową plastelinę, podziel ciasto na tyle częsci, ile chcecie kolorów. Dodaj trochę barwnika i ponownie wymieszaj. Z tak przygotowanej plasteliny możecie ulepić wszystko, co tylko przyjdzie Wam do głowy.",
-      "remember": "Po skończonej zabawie włóż plastelinę do szczelnego pojemnika. Mozesz ją przechowywać do 3 dni."
+      "name": "Homemade plasticine",
+      "needed": ["1 cup salt", "1 cup flour", "1 cup water"],
+      "needed-optional": ["cake molds", "rolling pin", "food colors"],
+      "description": "Dress so that there is no regret when you get dirty. Put the flour and salt in a high bowl. Let the child mix the ingredients with his hands or a spoon. Slowly pour water. Stir the dough until it becomes smooth and does not stick If you want colored plasticine, divide the dough into as many parts as you want the colors. Add some dye and mix again. With plasticine prepared in this way, you can make everything that comes to your mind. ",
+      "remember": "After playing, put the plasticine in an airtight container. You can store it for up to 3 days."
     },
     {
       "id": 3,
       "category": "art",
-      "name": "Skarbonka",
-      "needed": ["plastikowy lub metalowy pojemnik z pokrywką, np. puszka po orzeszkach", "kolorowe papiery, naklejki, tasiemki", "taśma i klej", "kolorowe flamastry"],
-      "description": "Niech dziecko zacznie ozdabiać pojemnik przygotowanymi papierami, naklejkami lub tasiemkami. Ty w tym czasie, w plastikowej przykrywce zrób dziurkę(nożem lub nożyczkami), przez którą będą wrzucane monety. Nałóżcie pokrywkę na pojemnik i przyklejcie ją taśmą. Skończcie ozdabiać skarbonkę razem.",
-      "remember": "Dziurkę zrób tak, aby nie było wystających i ostrych elementów, którymi mogłoby skaleczyć się dziecko."
+      "name": "Piggybank",
+      "needed": ["plastic or metal container with a lid, e.g. a can of nuts", "colored papers, stickers, ribbons", "tape and glue", "colored markers"],
+      "description": "Let the child begin to decorate the container with prepared papers, stickers or ribbons. At this time, in the plastic lid, make a hole (with a knife or scissors) through which coins will be thrown. Put the lid on the container and stick it with tape. Finish decorating the piggy bank together.",
+      "remember": "Make the hole so that there are no protruding and sharp parts that could injure the child."
     },
     {
       "id": 4,
       "category": "art",
-      "name": "Dziurawy obraz",
-      "needed": ["2 arkusze papieru w różnych kolorach", "dziurkacz", "klej"],
-      "needed-optional": ["flamastry lub kredki"],
-      "description": "Daj dziecku jeden akursz papieru, niech potnie go dziurkaczem - może to być kompletna abstrakcja lub wcześniej przygotowany wzór. Drugą kartkę posmarujcie klejem i przyklejcie podziurkowane dzieło do niej. Na koniec możecie jeszcze ozdobić dzieło kretkami lub flamastrami"
+      "name": "Leaky picture",
+      "needed": ["2 sheets of paper in different colors", "punch", "glue"],
+      "needed-optional": ["markers or pencils"],
+      "description": "Give the child one piece of paper, let him cut it with a hole punch - it can be a complete abstraction or a previously prepared pattern. Spread the second card with glue and stick the perforated work to it. Finally, you can decorate the work with moles or markers"
     },
     {
       "id": 5,
       "category": "art",
-      "name": "Zielnik",
-      "needed": ["świeże kwiaty", "gruba książka", "tektura lub karton", "klej", "gazety"],
-      "description": "Pomiędzy kolejne kartki książki włóżcie złożone kawałki gazet z kwiatami w środku. Gdy wszystkie rośliny będą już w środku, zamknijcie książkę i odłóżcie na kilka dni. Potem delikatnie wyjmijcie zasuszone kwiaty. Ułóżcie z nich kolorową kompozycję na przygotowanej tekturze i przyklejcie ją.",
-      "tip": "Takie roślinne kompozycje możecie storzyć nie tylko wiosną. W czasie jesieni, kwiaty można zamienić na kolorowe liście, które już spadły z drzew."
+      "name": "Herbarium",
+      "needed": ["fresh flowers", "thick book", "cardboard or cardboard", "glue", "newspapers"],
+      "description": "Between the next pages of the book, put folded pieces of newspapers with flowers inside. When all the plants are already inside, close the book and put it away for a few days. Then gently remove the dried flowers. Arrange them a colorful composition on the prepared cardboard and stick it.",
+      "tip": "You can stand such floral compositions not only in the spring. In autumn, the flowers can be turned into colorful leaves that have already fallen from the trees."
     },
     {
       "id": 6,
       "category": "art",
-      "name": "Pyszne obrazki",
-      "needed": ["budyń waniliowy lub śmietankowy", "papier do pieczenia lub śniadaniowy", "barwniki", "miseczki", "łyżeczki"],
-      "description": "Przyrządźcie budyń wg przepisu na opakowaniu. Podzielcie masę na tyle porcji, ile chcecie zrobić kolorów. Do każdej porcji dodajcie barwnik i dokładnie wymieszjacie. Rozłóż papier i pozwól dziecku malować paluszkami umoczonymi w budyniu. Cieszcie się zabawą, oblizując paluce przy każdej zmianie koloru.",
-      "tip": "Zamiast budyniu możesz użyć jogurtu naturalnego."
+      "name": "Delicious pictures",
+      "needed": ["vanilla or cream pudding", "baking or breakfast paper", "dyes", "bowls", "teaspoons"],
+      "description": "Make pudding according to the recipe on the package. Divide the mass into as many portions as you want to make colors. Add dye to each portion and mix thoroughly. Spread the paper and let the child paint with fingers dipped in pudding. Enjoy the fun, licking your fingers with each change of color.",
+      "tip": "Instead of pudding, you can use plain yogurt."
     },
     {
       "id": 7,
       "category": "gardening",
-      "name": "Kiełki",
-      "needed": ["nasiona rzeżuchy", "talerze", "papierowy ręcznik"],
-      "description": "Na talerzu z wodą połóż ręcznik papierowy i rozsypcie pojedynczo nasiona. Przykryjcie drugim talerzem, aby nie dochodziło światło. Zostawcie na około 3 dni pod przykrycie, nie zapominając o nawilżaniu nasion. Gdy pędę będą miały już około 2 cm, zdjemijcie pokrywkę i połóżcie talerz z kiełkami na słonecznym parapecie. Pamiętajcie o podlewaniu roślin. Gdy się zazielenią ścinajcie nożyczkami, możecie położyć je na kanapki lub dodać do sałatki.",
-      "remember": "Jest wiele odmian nasion na kiełki. Postępowanie przy hodowli może się trochę różnieć w zależności od rodzaju rośliny. Postępuj zawsze zgodnie z instrukcjami na opakowaniu kupionych nasion."
+      "name": "Sprouts",
+      "needed": ["cress seeds", "plates", "paper towel"],
+      "description": "On a plate with water, put a paper towel and spread the seeds one by one. Cover with a second plate so that the light does not come on. Leave for about 3 days under cover, not forgetting about moisturizing the seeds. When the shoot is about 2 cm, remove the lid and put the plate with sprouts on a sunny windowsill. Remember to water the plants. When green, cut with scissors, you can put them on sandwiches or add them to your salad.",
+      "remember": "There are many varieties of seeds for sprouts. Cultivation practices may vary slightly depending on the type of plant. Always follow the instructions on the packaging of the seeds you bought."
     },
     {
       "id": 8,
       "category": "gardening",
-      "name": "Awokado",
-      "needed": ["pestka awokado", "ostry gwóźdź", "trzy wykałaczki", "szklanka"],
-      "description": "Ostrym gwoździem wywierć w pestce trzy dziurki. Do każdej wsuń wykałaczkę tak, aby nie wypadła. Nalejcie wody do szklanki, oprzyjcie wykałaczki na krawędzi naczynia, tak aby dół pestki był zanurzony w wodzie. Wrótce rozwiną się korzonki i pęd. Kiedy rozwiną się liście, odetnijcie wierzchołek pędu, dzięki temu drzewko będzie miało więcej gałęzi. Gdy korzenie zgrubieją, przeszdźcie roślinę do doniczki i nadal obcinajcie wierzchołek."
+      "name": "Avocado",
+      "needed": ["avocado stone", "sharp nail", "three toothpicks", "glass"],
+      "description": "Drill three holes in the stone with a sharp nail. Insert a toothpick into each so that it does not fall out. Pour water into the glass, rest the toothpicks on the edge of the dish so that the pit of the stone is immersed in water. Roots and shoots will develop soon. When the leaves develop , cut off the top of the shoot, thanks to which the tree will have more branches. When the roots thicken, move the plant to the pot and continue cutting the top."
     },
     {
       "id": 9,
       "category": "gardening",
-      "name": "Pomarańcze",
-      "needed": ["pestki pomarańczy, grejfruta lub cytryny", "doniczka", "ziemia"],
-      "description": "Nasypcie ziemi do doniczki i ją podlejcie. W wilgotny grunt wciśnijscie trzy, cztery pestki. Potem przenieście doniczkę w ciepłe i ciemne miejsce. Kiedy pestki zakiełkują, przestawcie roślinę w słoneczny punkt. Pamiętajcie o regularnym podlewaniu cytrusów i obracaniu doniczki, aby roślina z każdej strony miała dużo słońca."
+      "name": "Oranges",
+      "needed": ["orange, grapefruit or lemon seeds", "flowerpot", "soil"],
+      "description": "Pour soil into the pot and water it. Press three or four seeds into moist soil. Then move the pot to a warm and dark place. When the seeds sprout, move the plant to a sunny spot. Remember to regularly water the citrus and rotate the pot to make each plant the site had a lot of sunshine. "
     },
     {
       "id": 10,
       "category": "gardening",
-      "name": "Szczypiorek",
-      "needed": ["kilka główke cebuli dymki", "doniczka", "ziemia"],
-      "description": "Wsypcie ziemię do doniczki i ją podlejcie. Wciśnijscie pięć do dziesięciu cebulek i przykryjcie warstwą ziemi. Postaw doniczkę na parapacie i czekajcie na plony!"
+      "name": "Chive",
+      "needed": ["several heads of onion, spring onions", "flowerpot", "soil"],
+      "description": "Pour soil into a pot and water it. Press five to ten bulbs and cover with a layer of soil. Put the pot on the windowsill and wait for the crop!"
     },
     {
       "id": 11,
       "category": "funinthekitchen",
-      "name": "Statki",
-      "needed": ["kilka jajek ugotowanych na twardo", "majonez", "sól i pieprz", "wykałaczki", "papier", "nożyczki i/lub taśma"],
-      "description": "Obierzcie jajka, przekrójcie każde na pół. Wyciągnijscie żółtka, rozetrzyjcie je na masę z majonezem, solą i pieprzem. Z papieru wytnijcie żagle(tyle ile jest połówek jajek). Możecie je nawlec na wykałaczki lub po prostu przykleić do nich taśmą. Rozłóżcie masę jajeczną do białkowych łódek i w środek każdej połówki wetknijcie wykałaczkowy maszt. Statki są już gotowe do rejsu, smacznego!"
+      "name": "Ships",
+      "needed": ["several hard-boiled eggs", "mayonnaise", "salt and pepper", "toothpicks", "paper", "scissors and / or tape"],
+      "description": "Peel the eggs, cut each in half. Take out the yolks, rub them into the mass with mayonnaise, salt and pepper. Cut the sails out of paper (as many as halves of eggs). You can thread them on toothpicks or simply stick them with tape. Spread the mass egg in the protein boats and in the middle of each half stick a toothpick mast. The vessels are ready for the trip, enjoy!"
     },
     {
       "id": 12,
       "category": "funinthekitchen",
-      "name": "Smaczna biżuteria",
-      "needed": ["miękkie cukierki", "dropsy z dziurką", "popkorn", "żelki", "suszone owoce", "igła i nić"],
-      "description": "Nawlecz igłę i pozwól dziecku stworzyć własną biżuterię. Gdy skończy, pomóż mu ją założyć na siebie i życz smacznego!"
+      "name": "Tasty jewelry",
+      "needed": ["soft candies", "drops with a hole", "popcorn", "jellies", "dried fruit", "needle and thread"],
+      "description": "Thread the needle and let the child create his own jewelry. When done, help him put it on and wish him tasty!"
     },
     {
       "id": 13,
       "category": "theater",
-      "name": "Strojenie min",
+      "name": "Min tuning",
       "needed": [],
-      "description": "Usiądź twarzą do dziecka. Spróbujcie poprzewracać oczami, mrugajcie powiekami, ruszajcie nosem, uszami, językiem, marszczcie czoło, wyginajcie karkiem. Zadaniem może być rozmieszanie siebie nawzajem albo powtarzenie po sobie min."
+      "description": "Sit facing the child. Try rolling your eyes, blinking your eyelids, move your nose, ears, tongue, frown, bend your neck. The task may be to mix each other or repeat each other."
     },
     {
       "id": 14,
       "category": "games",
-      "name": "Dzień i noc",
+      "name": "Day and night",
       "needed": [],
-      "description": "Dziecko biega sobie swobodnie. Kiedy powiesz 'Noc', dziecko musi się zatrzymać i się nie ruszać. Gdy zawołasz 'Dzień', dziecko może znów zacząć biegać.",
-      "tip": "Zamiast mówić 'Dzień/Noc' możesz klaskać lub wybrać słowa wygodne dla Ciebie i Twojego dziecka."
+      "description": "The child runs freely. When you say 'Night', the child must stop and not move. When you call 'Day', the child may start running again.",
+      "tip": "Instead of saying 'Day / Night', you can clap or choose words that are convenient for you and your child."
     },
     {
       "id": 15,
       "category": "games",
-      "name": "Ojciec Wirgiliusz",
+      "name": "Father Virgiliusz",
       "needed": [],
-      "description": "'Ojciec Wirgiliusz uczył dzieci swoje, a miał ich wszystkich sto dwadzieścia troje. Hejże dzieci, hejże, ha! Róbcie wszystko to, co ja!'. Najpierw zaśpiewaj dzieciom piosenkę, a potem powiedz: 'Ojciec Wirgiliusz robi...(np. dotyka nosa, stoi na jednej nodze, trzyma się za biodra i obraca się w kółko)' i zrób to. Niech dzieci Cię naśladują. Po kilku takich poleceniach, możesz się zamienić z dzieckiem, niech teraz ono będzie ojcem Wirgiliuszem."
+      "description": "'Father Virgiliusz taught his children, and he had all of them one hundred and twenty-three. Hey children, hey, ha! Do everything I do!'. First, sing a song to the children, and then say: 'Father Virgiliusz does ... (e.g. 'touches the nose, stands on one leg, holds by the hips and turns in a circle)' and do it. Let the children imitate you. After a few such instructions, you can exchange with the child, let it now be father Virgilius."
     },
     {
       "id": 16,
       "category": "theater",
-      "name": "Jak chodzi kaczka?",
+      "name": "How's the duck coming?",
       "needed": [],
-      "description": "W tej zabawie chodzi o naśladowanie sposobu poruszania się zwierząt. Na zmianę zadawajcie sobie pytanie 'Jak porusza się ...(np. kaczka, pies, kot, słoń) ?' i pokazujcie jak się porusza.",
-      "tip": "Do zabawy możecie dodać również naśladowanie odgłosów zwierząt."
+      "description": "This game is about imitating the way animals move. Ask yourself 'How does it move ... (e.g. duck, dog, cat, elephant)?' and show how it moves. ",
+      "tip": "You can also add imitation of animal sounds to the fun."
     },
     {
       "id": 17,
       "category": "games",
-      "name": "Znikające przedmioty",
-      "needed": ["kilka różnych przedmiotów, np. samochodzik, książka, widelec, but, moneta, itp."],
-      "description": "Połóż na stole lub podłodze zgromadzone przedmioty. Poproś dziecko, aby zasłoniło oczy lub się obróciło, i schowaj jeden z przedmiotów. Potem spytaj dziecko, której rzeczy brakuje. Potem schowaj kolejny przedmiot, gdy dziecko ma zasłonięte oczy, i znów zapytaj czego brakuje. Kontynuuj zabawę aż znikną wszystkie przedmioty.",
-      "tip": "Dla starszych dzieci możesz zgromadzić przedmioty, które są podobne do siebie. np. sztućce, flamastry i kredki, maskotki."
+      "name": "Disappearing items",
+      "needed": ["several different items, e.g. toy car, book, fork, shoe, coin, etc."],
+      "description": "Put the collected objects on the table or floor. Ask the child to cover his eyes or turn around and hide one of the objects. Then ask the child who is missing things. Then hide the next object when the child is blindfolded, and ask again what is missing. Keep playing until all items disappear.",
+      "tip": "For older children, you can collect items that are similar to each other, e.g. cutlery, markers, pencils, mascots."
     },
     {
       "id": 18,
       "category": "music",
-      "name": "Grzechotki",
-      "needed": ["małe plastikowe butelki, np. po napojach", "ryż i/lub fasola"],
-      "description": "Do umytych i wysuszonych butelek wsypcie trochę ryżu i/lub fasoli, następnie zakręćcie nakrętki i gotowe! Teraz możecie grać w rytm muzyki lub tworzyć swoje własne kompozycje.",
-      "tip": "Zróbcie więcej instrumentów, wtedy będziecie mogli założyć zespół i dawać koncerty dla rodziny."
+      "name": "Rattles",
+      "needed": ["small plastic bottles, e.g. for drinks", "rice and / or beans"],
+      "description": "Pour some rice and / or beans into the washed and dried bottles, then screw the caps on and it's ready! Now you can play to the rhythm of the music or create your own compositions.",
+      "tip": "Make more instruments, then you will be able to start a band and give concerts for the family."
     },
     {
       "id": 19,
       "category": "music",
-      "name": "Dzwoneczki",
-      "needed": ["dwie wstążki (około 20cm długie)", "dzwoneczki"],
-      "description": "Na każdą wstążkę nawlecz dzwoneczki, zrób supełki między nimi. Zawiąż gotowe bransoletki na nadgarstkach lub kostkach dziecka tak, żeby się nie zsunęły, ale żeby miały swobodę ruchu. Pozwól dziecku pobiegać, potańczyć w rytm muzyki. Możeciu sprawdzić czy dziecku uda się poruszać tak, żeby nie było słychać dzwoneczków.",
-      "tip": "Wszystkie własnoręcznie zrobione instrumenty zachowajcie na późniejsze zabawy. Może zróbcie specjalną skrzynię tylko na instrumenty?"
+      "name": "Bells",
+      "needed": ["two ribbons (about 20cm long)", "bells"],
+      "description": "Thread the bells on each ribbon, make knots between them. Tie ready bracelets on the wrists or ankles of the child so that they do not slip, but so that they are free to move. Let the child run, dance to the rhythm of music. You can check if the child can move like this so that the bells cannot be heard. ",
+      "tip": "Keep all your hand-made instruments for later play. Maybe make a special case only for instruments?"
     },
     {
       "id": 20,
       "category": "outdoorfun",
-      "name": "Mapa skarbów",
-      "needed": ["karton lub tektura", "klej"],
-      "description": "Pójdźcie na spacer lub wyjdźcie na ogródek. Zabierzcie ze sobą karton i klej. Kiedy dziecko znajdzie jakiś interesujący przedmiot, przyklejcie go na karton. Powstałą w ten sposób mapę możecie w domu pokolorować kredkami lub mazakami. Spróbujcie zrobić mapy z różnych miejsc, np. park, plaża, łąka."
+      "name": "Treasure map",
+      "needed": ["cardboard or cardboard", "glue"],
+      "description": "Go for a walk or go to the garden. Take a cardboard and glue with you. When a child finds an interesting object, stick it on the cardboard. The resulting map can be colored at home with crayons or felt-tip pens. Try to make maps from different places, e.g. park, beach, meadow."
     },
     {
       "id": 21,
       "category": "outdoorfun",
-      "name": "Znikające obrazki",
-      "needed": ["wiaderko z wodą", "pędzle"],
-      "description": "Znajdź bezpieczne miejsce na podwóku lub chodniku. Zabierzcie ze sobą wiaderko (lub inny pojemnik) z wodą oraz pędzle. Niech dziecko maluje tam obrazki pędzlem zanurzonym w wodzie. Kiedy woda zacznie parować, obrazki będą znikać, robiąc miejsce na nowe arcydzieła."
+      "name": "Disappearing pictures",
+      "needed": ["bucket with water", "brushes"],
+      "description": "Find a safe place in the yard or sidewalk. Take a bucket (or other container) with water and brushes with you. Have your child paint the pictures there with a brush immersed in water. When the water begins to evaporate, the pictures will disappear, making room for new masterpieces."
     },
     {
       "id": 22,
       "category": "outdoorfun",
-      "name": "Kwiatowe obrazki",
-      "needed": ["piasek lub ziemia", "stare podstawki lub talerzyki jednorazowe", "kwiaty, liście, gałązki, itp."],
-      "description": "Nasypcie trochę mokrego piasku lub ziemi na talerzyk. Uformujcie z tego wzgórze. Teraz niech dziecko poszuka kwiatów, liści, piórek i innych tego typu drobiazków. Powciskajcie znaleziska w piasek tworząc kolorowe i oryginalne kompozycje. Jeśli będziecie pamiętać o nawilżaniu piasku, takie dzieło może ozdabiać balkon lub taras nawet przez kilka dni."
+      "name": "Flower pictures",
+      "needed": ["sand or soil", "old disposable plates or saucers", "flowers, leaves, twigs, etc."],
+      "description": "Pour some wet sand or soil on a saucer. Make a hill out of it. Now let the child look for flowers, leaves, feathers and other small items. Press the finds into the sand to create colorful and original compositions. If you remember to moisten the sand, such a work may decorate the balcony or terrace for several days."
     },
     {
       "id": 23,
       "category": "outdoorfun",
-      "name": "Błotna zabawa",
-      "needed": ["mały basen lub plastikowa płachta"],
-      "description": "Wyjdźcie na dwór, rozłóż basen. Wsyp do niego ziemię i dolej wody. Pozwól dziecku taplać się w błocie i ciesz się jego radością! Po skończonej zabawie, umyj basen i dziecko wodą z węża ogrodowego. Będzie jeszcze więcej radości!"
+      "name": "Mud fun",
+      "needed": ["small pool or plastic sheet"],
+      "description": "Go outside, unfold the pool. Pour in the ground and add water to it. Let the child dabble in the mud and enjoy his joy! After playing, wash the pool and the child with water from a garden hose. There will be even more joy!"
     },
     {
       "id": 24,
       "category": "outdoorfun",
-      "name": "Ślizgawka",
-      "needed": ["duża plastikowa płachta, np. folia malarska", "kilka kamieni", "wąż ogrodowy"],
-      "needed-optional": ["urządzenie do traszania trawy"],
-      "description": "Rozłóż folię na trawniku, brzegi przyciśnij kamieniami. Skieruj wodę z węża płachtę. Gdy będzie już dostatecznie mokra, można zacząć się ślizgać!",
-      "remember": "Pilnuj, żeby folia była zawsze mokra. Staraj się również zmieniać miejsce zabawy, aby za bardzo nie zgnieść trawy w jednym miejscu."
+      "name": "Slide",
+      "needed": ["large plastic sheet, e.g. painting foil", "several stones", "garden hose"],
+      "needed-optional": ["grass mower"],
+      "description": "Spread the foil on the lawn, press the edges with stones. Direct the water from the hose with a sheet. Once it is wet enough, you can start to slip!",
+      "remember": "Make sure the foil is always wet. Also try to change the place of play so as not to squash the grass too much in one place."
     }
   ]
 }
